@@ -1,0 +1,111 @@
+
+
+#backgMain{
+    background-color: #808080;
+    position: absolute;
+    width: 1000px;
+    height: 600px;
+    margin-top: 100px;
+    /* margin-left: 350px; */
+}
+
+#backgFirst{
+    background-color: #000;
+    position: absolute;
+    width: 900px;
+    height: 500px;
+    margin-top: 45px;
+    margin-left: 50px;
+    border-radius: 100% 100% 100% 100%;
+}
+
+#backgSecond{
+    background-color: #ffd700;
+    position: absolute;
+    width: 835px;
+    height: 435px;
+    margin-top: 32px;
+    margin-left: 32px;
+    border-radius: 100% 100% 100% 100%;
+}
+
+#backgThird{
+    background-color: #000;
+    position: absolute;
+    width: 780px;
+    height: 395px;
+    margin-top: 20px;
+    margin-left: 28px;
+    border-radius: 100% 100% 100% 100%
+}
+
+#obj1{
+    background-color: #ffd700;
+    float: left;
+    width: 175px;
+    height: 140px;
+    margin-top: 0;
+    margin-left: 179px;
+    border-radius: 200px 0px 190px 120px;
+}
+
+#obj2{
+    float: left;
+    height: 0;
+    width: 50px;
+    margin-top: 0;
+    margin-left: 0;
+    border-top: 50px solid #ffd700;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    
+}
+
+#obj3{
+    background-color: #ffd700;
+    width: 175px;
+    height: 140px;
+    margin-top: 0;
+    margin-left: 424px;
+    border-radius: 0px 200px 120px 190px;
+}
+
+#obj4{
+    background-color: #ffd700;
+    position: absolute;
+    width: 150px;
+    height: 135px;
+    margin-top: 110px;
+    margin-left: 110px;
+    border-radius: 800px 3000px;
+}
+
+#obj5 {
+    background-color: #ffd700;
+    position: absolute;
+    width: 180px;
+    height: 150px;
+    margin-top: 110px;
+    margin-left: 210px;
+    border-radius: 700px 1100px 0px 1000px;
+}
+
+#obj6 {
+    background-color: #ffd700;
+    position: absolute;
+    width: 180px;
+    height: 150px;
+    margin-top: 110px;
+    margin-left: 390px;
+    border-radius: 1100px 700px 1000px 0px;
+}
+
+#obj7{
+    background-color: #ffd700;
+    position: absolute;
+    width: 150px;
+    height: 135px;
+    margin-top: 110px;
+    margin-left: 525px;
+    border-radius: 3000px 800px;
+}
